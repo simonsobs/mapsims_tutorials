@@ -5,6 +5,10 @@
 
 Notebooks on how to use [`mapsims`](https://github.com/simonsobs/mapsims) and [Simons Observatory's map based simulations](https://github.com/simonsobs/map_based_simulations).
 
+## Review notebooks without executing them
+
+See the [already executed notebooks](https://nbviewer.jupyter.org/github/zonca/mapsims_tutorials/tree/master/)
+
 ## Setup at NERSC
 
 * Login to [Jupyter@NERSC](https://jupyter.nersc.gov)
