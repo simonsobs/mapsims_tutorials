@@ -5,6 +5,8 @@
 
 Notebooks on how to use [`mapsims`](https://github.com/simonsobs/mapsims) and [Simons Observatory's map based simulations](https://github.com/simonsobs/map_based_simulations).
 
+For any errors or feedback, open an issue on this repository.
+
 ## Review notebooks without executing them
 
 See the [already executed notebooks](https://nbviewer.jupyter.org/github/zonca/mapsims_tutorials/tree/master/)
