@@ -9,7 +9,7 @@ For any errors or feedback, open an issue on this repository.
 
 ## Review notebooks without executing them
 
-See the [already executed notebooks](https://nbviewer.jupyter.org/github/zonca/mapsims_tutorials/tree/master/)
+See the [already executed notebooks](https://nbviewer.jupyter.org/github/zonca/mapsims_tutorials/tree/executed/)
 
 ## Setup at NERSC
 
