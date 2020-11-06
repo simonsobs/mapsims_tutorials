@@ -7,6 +7,12 @@ Notebooks on how to use [`mapsims`](https://github.com/simonsobs/mapsims) and [S
 
 For any errors or feedback, open an issue on this repository.
 
+## Recording of the 1-hour tutorial (June 2020)
+
+[![Youtube video](https://img.youtube.com/vi/kzERT42qyZs/0.jpg)](https://www.youtube.com/watch?v=kzERT42qyZs&start=148)
+
+Or download the video in MP4 format from the [Simons Observatory wiki (needs credentials)](http://simonsobservatory.wikidot.com/ff2f-recordings)
+
 ## Review notebooks without executing them
 
 See the [already executed notebooks](https://nbviewer.jupyter.org/github/zonca/mapsims_tutorials/tree/executed/)
